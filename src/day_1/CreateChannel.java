@@ -5,5 +5,12 @@ public class CreateChannel {
         System.out.println("User is able to create channels");
         
         // Brand new changes from github.....
+        
+        String s= "a";
+if(s.contains("a")){
+    System.out.println("contains");
+}else{
+    System.out.println("not");
+}
     }
 }
